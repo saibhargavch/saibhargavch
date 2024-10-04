@@ -2,14 +2,14 @@ Hey there I'am Sai Bhargav, a third-year Computer Science & Engineering student 
 
 ***Skills & Interests:***
 
-Programming Languages: Python, C, HTML, CSS, JavaScript(basic knowledge)
+  * Programming Languages: Python, C, HTML, CSS, JavaScript(basic knowledge)
 
-Frameworks/Libraries: Bootstrap, NumPy, Pandas, Matplotlib
+  * Frameworks/Libraries: Bootstrap, NumPy, Pandas, Matplotlib
 
-Databases: MySQL, SQLite
+  * Databases: MySQL, SQLite
 
-Developer Tools: Git/Github, Google Colab, VS Code
+  * Developer Tools: Git/Github, Google Colab, VS Code
 
-Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOPS, DBMS
+  * Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOPS, DBMS
 
-Interests: Problem-Solving, Competitive Programming, Open Source Contributions, Ethical Hacking, Cyber Security
+  * Interests: Problem-Solving, Competitive Programming, Open Source Contributions, Ethical Hacking, Cyber Security
